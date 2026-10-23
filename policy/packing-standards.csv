@@ -1,0 +1,5 @@
+object_type,min_condition,lead_days
+Painting,80,5
+Sculpture,75,7
+Textile,85,4
+Photograph,70,3

@@ -1,0 +1,7 @@
+loan_id,gallery,object_type,condition_score,requested_ship_date
+LN-104,Harbor,Painting,79,2048-11-11
+LN-105,Ridge,Sculpture,75,2048-11-13
+LN-106,Harbor,Textile,86,2048-11-09
+LN-107,Valley,Photograph,68,2048-11-14
+LN-108,Ridge,Painting,82,2048-11-12
+LN-109,Harbor,Sculpture,70,2048-11-15
