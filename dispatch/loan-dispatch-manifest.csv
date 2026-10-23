@@ -1,0 +1,6 @@
+dispatch_date,loan_id,gallery,object_type,condition_score,min_condition,requested_ship_date,candidate_date,reason
+2048-11-06,LN-106,Harbor,Textile,86,85,2048-11-09,2048-11-05,DEADLINE
+2048-11-07,LN-104,Harbor,Painting,79,80,2048-11-11,2048-11-06,CONDITION_AND_DEADLINE
+2048-11-07,LN-105,Ridge,Sculpture,75,75,2048-11-13,2048-11-06,DEADLINE
+2048-11-07,LN-107,Valley,Photograph,68,70,2048-11-14,2048-11-11,CONDITION
+2048-11-10,LN-109,Harbor,Sculpture,70,75,2048-11-15,2048-11-08,CONDITION
